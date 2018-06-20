@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+Principle:
+http://ksimek.github.io/2012/08/22/extrinsic/ 
+https://www.coursera.org/learn/robotics-perception/lecture/eTSMz/rotations-and-translations  video
+
+-----------------------------------------------------------------------------------------------------------------------------------
+OpenCV calculate translation and rotation matrix for single moving camera.
+
+https://stackoverflow.com/questions/20128284/opencv-rotation-matrix-and-translation-vector-for-a-moving-single-camers   1.1
+https://stackoverflow.com/questions/14150152/extract-translation-and-rotation-from-fundamental-matrix  1.2
+https://blog.csdn.net/u014679795/article/details/53467264   2
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Stereo camera calibration using OpenCV and C++
+
+https://github.com/sourishg/stereo-calibration/   3.1
+https://sourishghosh.com/2016/camera-calibration-cpp-opencv/   3.2
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Matlab single camera calibration using toolbox:
+
+https://blog.csdn.net/lql0716/article/details/71973318?locationNum=8&fps=1  4.1
+https://www.cnblogs.com/star91/p/6012425.html   4.2
+https://github.com/imatge-upc/icv-3d-vision/blob/master/fundamental_essential_matrices.m  4.3
+https://blog.csdn.net/kyjl888/article/details/78829229    4.4
+
+
+
+
